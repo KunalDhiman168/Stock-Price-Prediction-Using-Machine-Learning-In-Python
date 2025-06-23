@@ -71,6 +71,15 @@ Plotted graphs for actual vs predicted prices.
 
 Displayed confusion matrix and accuracy metrics.
 
+# Future Work
+- Integrate LSTM (Long Short-Term Memory) neural networks for better time-series prediction.
+
+- Add real-time stock prediction interface using a web app (e.g., Streamlit).
+
+- Expand to multi-stock analysis and portfolio suggestions.
+
+
+
 
 
 
